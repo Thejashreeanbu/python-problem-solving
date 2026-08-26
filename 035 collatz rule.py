@@ -1,6 +1,4 @@
-
-
-  
+ 
 n=int(input("Enter the value: "))
 count=0
 while n !=1:
