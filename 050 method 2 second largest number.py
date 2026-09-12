@@ -1,4 +1,4 @@
-n=[7,11,23,56,78,68,87]
+n=[7,11,23,56,78,87,68,87]
 unique=[]
 for i in n:
     if i not in unique:
